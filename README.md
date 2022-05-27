@@ -7,8 +7,8 @@ replace your needed video url in 13th line
 channel in 15th line 
 20 line with your community post url
 after download the folder extract it and open cmd and enter pip install undetected_chromedriver
-after download the chromedriver with matches your chrome version of your pc 
-and enter yt.py or yt in cmd 
-thankyou!
+after download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc 
+and enter yt.py or yt in cmd or visual studio 
+
 
 
