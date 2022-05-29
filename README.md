@@ -11,5 +11,5 @@ After download the folder extract it and open cmd and enter pip install undetect
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc 
 and enter yt.py or yt in cmd or visual studio 
 
-
+👉Video Link=https://youtu.be/SO107aa8GMQ
 
