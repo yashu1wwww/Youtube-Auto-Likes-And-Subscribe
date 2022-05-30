@@ -2,7 +2,7 @@ https://github.com/xtekky/google-login-bypass/blob/main/login.py  #replace email
 'https://accounts.google.com/AddSession?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB&passive=false&service=youtube&uilel=0'
 #See Screenshot Pic To Add Proxy
 #remove 19 to 22 lines in 1 line code
-#After Merge with 1st line code With Below Code 
+#After Replacing & Removed Merge  1st line code With Below Code👇 
 
 time.sleep(3)
 
