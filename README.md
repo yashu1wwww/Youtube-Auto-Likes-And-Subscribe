@@ -7,9 +7,12 @@ See Screenshot Folder For Adding Proxy
 Replace your needed video url in 13th line 
 Channel link in 15th line 
 20 line with your community post url
-After download the folder extract it and open cmd and enter pip install undetected_chromedriver,Pip install Proxy
+After download the folder extract it and open cmd and enter Python If You Find Python Version Then enter pip install undetected_chromedriver,Pip install Proxy
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc 
 and enter yt.py or yt in cmd or visual studio 
+👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
+👉Auto Like Video Link=https://youtu.be/SO107aa8GMQ
 
-👉Video Link=https://youtu.be/SO107aa8GMQ
+
+
 
