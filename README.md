@@ -10,8 +10,11 @@ Channel link in 15th line
 After download the folder extract it and open cmd and enter Python If You Find Python Version Then enter pip install undetected_chromedriver,Pip install Proxy
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc 
 and enter yt.py or yt in cmd or visual studio 
+
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
-👉Auto Like Video Link=https://youtu.be/SO107aa8GMQ
+👉Auto Yt Like Video Link=https://youtu.be/SO107aa8GMQ
+👉Auto Yt Sub & Auto Community Post Like=https://youtu.be/t74knyA8ZQ0
+
 
 
 
