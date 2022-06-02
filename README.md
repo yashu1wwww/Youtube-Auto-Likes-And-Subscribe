@@ -13,7 +13,7 @@ and enter yt.py or yt in cmd or visual studio
 
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
 
-👉Auto Yt Like Video Link=https://youtu.be/SO107aa8GMQ
+👉Auto Yt Like Video=https://youtu.be/SO107aa8GMQ
 
 👉Auto Yt Sub & Auto Community Post Like=https://youtu.be/t74knyA8ZQ0
 
