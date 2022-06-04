@@ -18,6 +18,7 @@ and enter yt.py or yt in cmd or visual studio
 👉Auto Yt Sub & Auto Community Post Like=https://youtu.be/t74knyA8ZQ0
 
 If You Want Community Vote Add Below Code In last Line Of Script 
+
 url = 'https://www.youtube.com/channel/UCyDKApmpEVmESSue7v3qy3g/community' #put your community post url here
 
 driver.get(url)
