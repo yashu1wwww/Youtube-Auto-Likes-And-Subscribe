@@ -29,7 +29,7 @@ driver.find_element_by_css_selector('#sign-in > tp-yt-paper-item > div > div.tex
 
 time.sleep(15)
 
-#it only vote first line only and for which vote tab is first in community tab
+#it only vote first line only and for which vote tab is starting post in community tab
 
 👉 YouTube Auto Vote In Community Tab-https://youtu.be/DMHzxN-rZXg
 
