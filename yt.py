@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 email = 'darshu@gmail.com\n'  #enter your mail
-password = 'dash\n'           #enter your pass
+password = 'dash123\n'           #enter your pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -15,6 +15,8 @@ driver.get(url)
 wait.until(EC.visibility_of_element_located((By.NAME,'identifier'))).send_keys(email)
 wait.until(EC.visibility_of_element_located((By.NAME,'password'))).send_keys(password)
 time.sleep(3)
+
+#upto the above the codes credits goes to https://github.com/xtekky these man
 
 url = 'https://youtu.be/9VpeTiz81gc' #replace with your required url of the video
 driver.get(url)
