@@ -15,9 +15,11 @@ and enter yt.py or yt in cmd or visual studio
 
 👉Auto Yt Likes+Auto Sub +Auto Community Post Like=https://youtu.be/yre_drbKjss
 
+👉 YouTube Auto Vote In Community Tab-https://youtu.be/DMHzxN-rZXg
+
 If You Want Auto Community Vote Add Below Code In last Line Of Script 
 
-url = 'https://www.youtube.com/channel/UCyDKApmpEVmESSue7v3qy3g/community' #put your community post url here
+url = 'https://www.youtube.com/channel/UCyDKApmpEVmESSue7v3qy3g/community' #put your community vote post url here
 
 driver.get(url)
 
@@ -29,7 +31,7 @@ time.sleep(15)
 
 #it only vote first line only and for which vote tab is starting post in community tab
 
-👉 YouTube Auto Vote In Community Tab-https://youtu.be/DMHzxN-rZXg
+
 
 
 
