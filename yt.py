@@ -20,7 +20,6 @@ time.sleep(3)
 
 url = 'https://youtu.be/9VpeTiz81gc' #replace with your required url of the video
 driver.get(url)
-time.sleep(5)
 driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click()
 driver.find_element_by_css_selector('yt-icon.style-scope.ytd-toggle-button-renderer').click()
 time.sleep(5)
@@ -35,4 +34,5 @@ time.sleep(5)
 url = 'https://www.youtube.com/c/DrBro/community'  #replace with your required channel community post url
 driver.get(url)
 driver.find_element_by_css_selector('yt-icon.style-scope.ytd-toggle-button-renderer').click()
-time.sleep(10)
+driver.close()
+#time.sleep(10)
