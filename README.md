@@ -41,7 +41,25 @@ time.sleep(15)
 
 #it only vote first line only and for which vote tab is starting post in community tab
 
+👉Note:-
 
+👉if your selenium version is in latest version then 
+the code never run 
+
+👉open cmd and enter pip uninstall selenium
+
+And enter 
+
+pip install selenium==4.2.1
+or
+pip install selenium==4.2.0
+
+and hit enter 
+
+and 
+
+python -c "import selenium; print(selenium.__version__)"
+<to check the current version of selenium>
 
 
 
