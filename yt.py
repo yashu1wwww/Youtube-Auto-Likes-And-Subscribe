@@ -18,21 +18,21 @@ time.sleep(3)
 
 #upto the above the codes credits goes to https://github.com/xtekky these man
 
-url = 'https://youtu.be/9VpeTiz81gc' #replace with your required url of the video
+url = 'https://youtu.be/9VpeTiz81gc' #replace with your required url to auto like the video
 driver.get(url)
 driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click()
-driver.find_element_by_css_selector('yt-icon.style-scope.ytd-toggle-button-renderer').click()
-time.sleep(5)
+driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
+time.sleep(4)
 
-url = 'https://www.youtube.com/c/DrBro' #replace with your required channel url which you want subscribe 
+url = 'https://www.youtube.com/c/DrBro' #replace with your required channel url which you want auto subscribe 
 driver.get(url)
-driver.find_element_by_css_selector('#subscribe-button > ytd-subscribe-button-renderer > tp-yt-paper-button > yt-formatted-string').click()
-time.sleep(5)
+driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
+time.sleep(4)
 
 #if you want community post like below is the code
 
 url = 'https://www.youtube.com/c/DrBro/community'  #replace with your required channel community post url
 driver.get(url)
-driver.find_element_by_css_selector('yt-icon.style-scope.ytd-toggle-button-renderer').click()
+driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 #time.sleep(10)
