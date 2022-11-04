@@ -7,6 +7,8 @@ See Screenshot Folder For Adding Proxy
 #Replace Email and Pass in 7 & 8 line and replace 19th line with your required video url
 & 26 line with which you want to subscribe the channel put thw url of that in 33 line put the url of the which you want hit like to the community tab post url 
 
+note:-use accounts which dont have 2-factor authentication...
+
 After download the folder extract it and open cmd and enter Python If You Find Python Version
 
 Then enter pip install undetected_chromedriver in cmd
