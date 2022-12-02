@@ -5,7 +5,7 @@ Youtube Auto Likes,Subscribe & Also Community Post Like With Python
 See Screenshot Folder For Adding Proxy
 
 #Replace Email and Pass in 7 & 8 line and replace 21th line with your required video url...
-which pause the video and hit auto like & auto subscribe & if you dont want communtiy tab auto post like means remove the line from 30 to 31.
+which pause the video and hit auto like & auto subscribe & if you dont want communtiy tab auto post like means remove the line from 30 to 31 and save it & run it.
 
 note:-use accounts which dont have 2-factor authentication...
 
