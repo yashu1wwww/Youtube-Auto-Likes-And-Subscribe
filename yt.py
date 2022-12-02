@@ -21,18 +21,14 @@ time.sleep(3)
 url = 'https://youtu.be/9VpeTiz81gc' #replace with your required url to auto like the video
 driver.get(url)
 driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click()
+time.sleep(1)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 time.sleep(4)
-
-url = 'https://www.youtube.com/c/DrBro' #replace with your required channel url which you want auto subscribe 
-driver.get(url)
+#the below code which auto sub after hitting the like....
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
-time.sleep(4)
-
-#if you want community post like below is the code
-
-url = 'https://www.youtube.com/c/DrBro/community'  #replace with your required channel community post url
-driver.get(url)
+time.sleep(3)
+#the below code is which opens community tab of the channel and hit like for first post
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[2]/div/div/ytd-menu-renderer/div[1]/ytd-segmented-like-dislike-button-renderer/div[1]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
+time.sleep(4)
 driver.close()
-#time.sleep(10)
+
