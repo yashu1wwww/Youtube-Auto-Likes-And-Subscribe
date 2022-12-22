@@ -2,6 +2,14 @@
 
 Youtube Auto Likes,Subscribe & Also Community Post Like With Python
 
+❗Currently The Project Have The Error❗
+
+The script Which Successfully auto login but when Its Open The Video The Below error occurs
+
+𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 - 𝙊𝙎𝙀𝙧𝙧𝙤𝙧: [𝙒𝙞𝙣𝙀𝙧𝙧𝙤𝙧 6] 𝙏𝙝𝙚 𝙝𝙖𝙣𝙙𝙡𝙚 𝙞𝙨 𝙞𝙣𝙫𝙖𝙡𝙞𝙙
+
+So Please Fork these Repository Or I will come back with soon.....
+
 #Replace Email and Pass in 7 & 8 line and replace 21th line with your required video url...
 which pause the video and hit auto like & auto subscribe & if you dont want communtiy tab auto post like means remove the line from 30 to 31 and save it & run it.
 
