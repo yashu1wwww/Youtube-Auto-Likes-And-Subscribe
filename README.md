@@ -2,20 +2,15 @@
 
 Youtube Auto Likes,Subscribe & Also Community Post Like With Python
 
-#Replace Email and Pass in 7 & 8 line and replace 21th line with your required video url...
-which pause the video and hit auto like & auto subscribe & if you dont want communtiy tab auto post like means remove the line from 30 to 31 and save it & run it.
+Replace "Email" and "Pass" in lines 7 and 8, respectively. Also, replace line 21 with the URL of the video you want to use. The script will automatically pause the video and hit the "like" and "subscribe" buttons. If you don't want to auto-post to the community tab, simply remove lines 30 to 31, save the file, and run it.
 
-note:-use accounts which dont have 2-factor authentication...
+Note: Use accounts that don't have two-factor authentication.
 
-After download the folder extract it and open cmd and enter Python If You Find Python Version
+After downloading the folder, extract it and open the command prompt. Enter "python" and check your Python version. Then enter "pip install undetected_chromedriver" and "pip install proxy" in the command prompt.
 
-Then enter pip install undetected_chromedriver in cmd
+Next, download the appropriate chromedriver version that matches your PC's Chrome version from https://chromedriver.chromium.org/downloads. Extract the downloaded file to the same folder.
 
-and Pip install Proxy in cmd
-
-After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
-
-and open cmd in that particular folder and enter yt.py or double tab on yt.py file..
+Open the command prompt in that folder and enter "yt.py" or double-click on the "yt.py" file to run the script.
 
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
 
