@@ -12,15 +12,9 @@ Next, download the appropriate chromedriver version that matches your PC's Chrom
 
 Open the command prompt in that folder and enter "yt.py" or double-click on the "yt.py" file to run the script.
 
-👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
+👉Python Install Setup
 
-👉Auto Yt Like Video=https://youtu.be/SO107aa8GMQ
-
-👉Auto Yt Sub & Auto Community Post Like=https://youtu.be/t74knyA8ZQ0
-
-👉Auto Yt Likes+Auto Sub +Auto Community Post Like=https://youtu.be/yre_drbKjss
-
-👉 YouTube Auto Vote In Community Tab-https://youtu.be/DMHzxN-rZXg
+https://youtu.be/4bUOrMj88Pc
 
 If You Want Auto Community Vote Add Below Code In last Line Of Script 
 
