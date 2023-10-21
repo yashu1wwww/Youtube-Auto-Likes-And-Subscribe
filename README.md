@@ -18,7 +18,7 @@ https://youtu.be/4bUOrMj88Pc
 
 If You Want Auto Community Vote Add Below Code In last Line Of Script 
 
-url = 'https://www.youtube.com/channel/UCyDKApmpEVmESSue7v3qy3g/community' #put your community vote post url here
+url = 'https://www.youtube.com/channel/UCcgjOgowzEH8a9RLmXGwn5g/community?lb=Ugkx11iytp7RPxuTCbJqCAu1TNoWNH05_1G3' #put your community vote post url here
 
 driver.get(url)
 
