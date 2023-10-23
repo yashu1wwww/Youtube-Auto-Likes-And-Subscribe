@@ -16,7 +16,7 @@ wait.until(EC.visibility_of_element_located((By.NAME,'identifier'))).send_keys(e
 wait.until(EC.visibility_of_element_located((By.NAME,'Passwd'))).send_keys(password)
 time.sleep(3)
 
-#upto the above the codes credits goes to https://github.com/xtekky these man
+
 
 url = 'https://youtu.be/9VpeTiz81gc' #replace with your required url to auto like the video
 driver.get(url)
