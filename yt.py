@@ -28,8 +28,9 @@ driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-wat
 
 time.sleep(4)
 
-#the below code which auto sub after hitting the like....
+#sub button
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
+
 time.sleep(3)
 
 #the below code is which opens community tab of the channel and hit like for first post
