@@ -2,21 +2,28 @@
 
 Youtube Auto Likes,Subscribe & Also Community Post Like With Python
 
-# new like code
-# replace in script in #like 
+# new like code replace in the code where #like button code having
 
-#like
+#like button
 driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
+
+# new subscribe code replace in the code where #sub button code having
+
+#sub button
+driver.execute_script('document.querySelector("#subscribe-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill").click()') 
 
 
 Replace "Email" and "Pass" in lines 7 and 8, respectively. Also, replace line 21 with the URL of the video you want to use. 
+
 The script will automatically pause the video and hit the "like" and "subscribe" buttons.
 
 Note: Use accounts that don't have two-factor authentication.
 
-After downloading the folder, extract it and open the command prompt. Enter "python" and check your Python version. Then enter "pip install undetected_chromedriver" and "pip install proxy" in the command prompt.
+After downloading the folder, extract it and open the command prompt. Enter "python" and check your Python version. Then enter "pip install undetected_chromedriver".
 
-Next, download the appropriate chromedriver version that matches your PC's Chrome version from https://chromedriver.chromium.org/downloads. Extract the downloaded file to the same folder.
+Next, download the appropriate chromedriver version that matches your PC's Chrome version from https://chromedriver.chromium.org/downloads.
+
+Extract the downloaded file to the same folder.
 
 Open the command prompt in that folder and enter "yt.py" or double-click on the "yt.py" file to run the script.
 
