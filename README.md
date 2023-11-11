@@ -2,7 +2,8 @@
 
 Youtube Auto Likes,Subscribe & Also Community Post Like With Python
 
-Replace "Email" and "Pass" in lines 7 and 8, respectively. Also, replace line 21 with the URL of the video you want to use. The script will automatically pause the video and hit the "like" and "subscribe" buttons. If you don't want to auto-post to the community tab, simply remove lines 30 to 31, save the file, and run it.
+Replace "Email" and "Pass" in lines 7 and 8, respectively. Also, replace line 21 with the URL of the video you want to use. 
+The script will automatically pause the video and hit the "like" and "subscribe" buttons.
 
 Note: Use accounts that don't have two-factor authentication.
 
