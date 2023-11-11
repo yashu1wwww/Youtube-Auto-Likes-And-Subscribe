@@ -2,6 +2,13 @@
 
 Youtube Auto Likes,Subscribe & Also Community Post Like With Python
 
+# new like code
+replace in script in #like 
+
+#like
+driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
+
+
 Replace "Email" and "Pass" in lines 7 and 8, respectively. Also, replace line 21 with the URL of the video you want to use. 
 The script will automatically pause the video and hit the "like" and "subscribe" buttons.
 
