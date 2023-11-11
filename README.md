@@ -3,7 +3,7 @@
 Youtube Auto Likes,Subscribe & Also Community Post Like With Python
 
 # new like code
-replace in script in #like 
+# replace in script in #like 
 
 #like
 driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
