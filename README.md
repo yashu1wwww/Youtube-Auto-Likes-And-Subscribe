@@ -32,7 +32,14 @@ Open the command prompt in that folder and enter "yt.py" or double-click on the 
 
 https://youtu.be/4bUOrMj88Pc
 
-If You Want Auto Community Vote Add Below Code In last Line Of Script 
+------------------------------------------------------------------------
+
+# 👉 Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
+then copy the 'Like' and 'subscribe' button's XPath, CSS, or JavaScript path. Replace it in the code and press 'Ctrl+H' to find and replace the same element in the code.
+
+----------------------------------------------------------------------
+
+# If You Want Auto Community Vote Add Below Code In last Line Of Script 
 
 url = 'https://www.youtube.com/channel/UCcgjOgowzEH8a9RLmXGwn5g/community?lb=Ugkx11iytp7RPxuTCbJqCAu1TNoWNH05_1G3' #put your community vote post url here
 
@@ -44,7 +51,7 @@ driver.find_element_by_css_selector('#sign-in > tp-yt-paper-item > div > div.tex
 
 time.sleep(15)
 
-#it only vote first line only and for which vote tab is starting post in community tab
+# it only vote first line only and for which vote tab is starting post in community tab
 
 👉Note:-
 
