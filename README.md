@@ -8,18 +8,6 @@ https://github.com/yashu1wwww/100-Youtube-Auto-Likes-Using-Localhost
 
 https://github.com/yashu1wwww/100-Youtube-Auto-Subscribers-Using-Localhost
 
-# new like code replace in the code where #like button code having
-
-#like button
-
-driver.execute_script("return document.querySelector('#segmented-like-button > ytd-toggle-button-renderer > yt-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill')").click()
-
-# new subscribe code replace in the code where #sub button code having
-
-#sub button
-
-driver.execute_script('document.querySelector("#subscribe-button-shape > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill").click()') 
-
 Replace "Email" and "Pass" in lines 7 and 8, respectively. Also, replace line 21 with the URL of the video you want to use. 
 
 The script will automatically pause the video and hit the "like" and "subscribe" buttons.
@@ -41,6 +29,7 @@ https://youtu.be/4bUOrMj88Pc
 ------------------------------------------------------------------------
 
 # 👉 Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
+
 then copy the 'Like' and 'subscribe' button's XPath, CSS, or JavaScript path. Replace it in the code and press 'Ctrl+H' to find and replace the same element in the code.
 
 ----------------------------------------------------------------------
