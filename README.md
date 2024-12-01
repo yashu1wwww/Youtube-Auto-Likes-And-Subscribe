@@ -8,6 +8,8 @@ https://github.com/yashu1wwww/100-Youtube-Auto-Likes-Using-Localhost
 
 https://github.com/yashu1wwww/100-Youtube-Auto-Subscribers-Using-Localhost
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Replace "Email" and "Pass" in lines 7 and 8, respectively. Also, replace line 21 with the URL of the video you want to use. 
 
 The script will automatically pause the video and hit the "like" and "subscribe" buttons.
